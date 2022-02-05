@@ -2,9 +2,7 @@
 tabjy, aka. kxu or NGC_6357
 
 ## Who
-- 4th year computing science undergrad @ Simon Fraser University
-- JDK Mission Control author
-- Software enginner intern at Red Hat
+- MMath student in CS @ uWaterloo
 
 ## Services and Tools
 - [Personal Knowledage Base](https://wiki.tabjy.com/)
